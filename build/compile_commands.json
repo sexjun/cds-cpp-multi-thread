@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/chendongsheng/github/cpp_multithreading/build",
+  "command": "/usr/bin/clang++  -I/Users/chendongsheng/github/cpp_multithreading/./include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -o CMakeFiles/cpp_muti.dir/main.cpp.o -c /Users/chendongsheng/github/cpp_multithreading/main.cpp",
+  "file": "/Users/chendongsheng/github/cpp_multithreading/main.cpp"
+}
+]
